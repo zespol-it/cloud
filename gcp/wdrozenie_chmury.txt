@@ -1,0 +1,4 @@
+- Przygotowanie środowiska Landing Zone w GCP (organizacja, foldery, projekty, polityki IAM).
+- Migracja danych i aplikacji do chmury (Cloud Storage Transfer, Migrate for Compute Engine).
+- Testy wydajnościowe i bezpieczeństwa.
+- Szkolenie zespołu klienta z obsługi nowego środowiska. 

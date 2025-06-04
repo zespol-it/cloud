@@ -1,0 +1,1 @@
+Powyższy skrypt kopiuje wszystkie pliki z lokalnego katalogu do wskazanego bucketa w Google Cloud Storage. Przed uruchomieniem należy upewnić się, że użytkownik ma odpowiednie uprawnienia do zapisu w buckecie oraz zainstalowany i skonfigurowany Google Cloud SDK. 

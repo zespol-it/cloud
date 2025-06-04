@@ -1,0 +1,8 @@
+# katalog: gcp
+
+potrzebuje:
+1. projekty rozwiazan chmurowych
+2. rozwoj rozwian chmurowych
+3. wdrozenie chmury
+4. wymagania/wytyczne do analizy potrzeb biznesowych
+5. skrypt do migracji + opis

@@ -1,0 +1,4 @@
+- Analiza obecnej architektury IT klienta.
+- Projektowanie architektury docelowej w Google Cloud Platform (GCP) z uwzględnieniem bezpieczeństwa, skalowalności i kosztów.
+- Dobór odpowiednich usług GCP (Compute Engine, Cloud Storage, BigQuery, Kubernetes Engine, itp.).
+- Przygotowanie diagramów architektury oraz dokumentacji technicznej. 

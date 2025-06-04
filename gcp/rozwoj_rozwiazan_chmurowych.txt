@@ -1,0 +1,4 @@
+- Implementacja infrastruktury jako kod (IaC) z użyciem Terraform lub Deployment Manager.
+- Automatyzacja procesów wdrożeniowych (CI/CD) z wykorzystaniem Cloud Build, GitHub Actions lub GitLab CI.
+- Tworzenie i rozwijanie mikroserwisów oraz funkcji serverless (Cloud Functions, Cloud Run).
+- Monitorowanie i optymalizacja wydajności oraz kosztów (Stackdriver, Billing Reports). 

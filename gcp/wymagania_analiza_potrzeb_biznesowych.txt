@@ -1,0 +1,5 @@
+- Zdefiniowanie celów biznesowych i oczekiwanych rezultatów migracji do chmury.
+- Identyfikacja kluczowych aplikacji i danych do migracji.
+- Analiza wymagań dotyczących bezpieczeństwa, zgodności (compliance) i dostępności.
+- Określenie budżetu oraz akceptowalnych kosztów operacyjnych.
+- Ustalenie wymagań dotyczących integracji z istniejącymi systemami. 
